@@ -1,0 +1,6 @@
+{
+    "Data Scientist": ["python", "machine learning", "data analysis", "pandas", "numpy", "scikit-learn"],
+    "Software Engineer": ["java", "data structures", "algorithms", "oop", "sql", "problem solving"],
+    "Web Developer": ["html", "css", "javascript", "react", "node.js", "bootstrap"]
+  }
+  
